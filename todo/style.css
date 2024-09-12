@@ -1,0 +1,55 @@
+.tittle{
+    display: block;
+    margin-bottom: 20px;
+    font-family: inter, system-ui, Avenir, Helvet;
+    font-size: 32px;
+    font-weight: 600;
+}
+.background{
+    display: block;
+    height: 24px;
+    width: 1428px;
+    font-family: inter, system-ui, Avenir, Helvet;
+}
+.background button{
+    display: inline-block;
+    align-items: flex-start;
+    box-sizing: border-box;
+    border: 2;
+    padding: 1px 6px;
+}
+form input{
+    border: 2;
+    padding: 1px 2px;
+}
+#date{
+    padding: 0 1px;
+}
+form button{
+    padding: 1px 6px;
+}
+h4{
+    display: block;
+    font-family: inter, system-ui, Avenir, Helvet;
+    font-weight: 700;
+    margin: 23px 0;
+}
+table, thead, tr, th{
+    border: 1px solid black;
+    font-family: inter, system-ui, Avenir, Helvet;
+}
+th{
+    height: 22px;
+}
+.tabel1{
+    width: 75px;
+}
+.tabel2{
+    width: 153px;
+}
+.tabel3{
+    width: 145px;
+}
+.tabel4{
+    width: 199px;
+}
